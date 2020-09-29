@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ![Intro Image](/gitHubReadMeBkgrd.png)
 
 <!--
