@@ -20,4 +20,4 @@ Here are some ideas to get you started:
  
   
   😄 Pronouns: sher/her/hers
-  📫 How to reach me <a href="mailto:julia.m.richards@gmail.com">
+  How to reach me <a href="mailto:julia.m.richards@gmail.com"> 📫 </a>
